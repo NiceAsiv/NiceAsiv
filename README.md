@@ -1,4 +1,4 @@
-### Hi, I'm Asiv,Yi people in China. 👋
+### Hi, I'm Asiv, Yi people in China. 👋
 Welcome to learn Yi people's culture!
 - 🔭 I’m now studying in Xidian university.
 - 🌱 I’m a pupil of Machine learning and Cybersecurity.
