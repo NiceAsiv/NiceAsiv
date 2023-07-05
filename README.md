@@ -6,4 +6,3 @@ Welcome to Sichuang and learn Yi people's culture!
 - ❤️ I love travel, sleep and nature.
 - 💬 Occassionally, I like to lose myself in philosophical thought. Be free to ask me about anything here.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiceAsiv)](https://github.com/NiceAsiv?tab=repositories)
