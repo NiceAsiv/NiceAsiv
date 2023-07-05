@@ -1,5 +1,5 @@
 ### Hi, I'm Asiv, Yi people in China. 👋
-Welcome to learn Yi people's culture!
+Welcome to Sichuan and learn Yi people's culture!
 - 🔭 I’m now studying in Xidian university(XDU).
 - 🌱 I’m a pupil of Machine learning and Cybersecurity.
 - 🤔 I’m currently coding in Python C++.
