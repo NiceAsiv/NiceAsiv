@@ -1,4 +1,4 @@
-### Hi, I'm Asiv, Yi people in China. 👋
+### Hi, I'm Asiv. 👋
 Welcome to Sichuang and learn Yi people's culture!
 - 🔭 I'm currently pursuing a master's degree at Xi'an Jiaotong University.
 - 🌱 I’m a pupil of Machine learning and Cybersecurity.
